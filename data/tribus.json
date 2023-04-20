@@ -1,0 +1,20 @@
+[
+    {
+        "nombreTribu": "Hunters",
+        "lider": "Miguel",
+        "cantidadPuntos": 200000,
+        "id": 1
+    },
+    {
+        "nombreTribu": "SpaceJump",
+        "lider": "Carlos",
+        "cantidadPuntos": 400000,
+        "id": 2
+    },
+    {
+        "nombreTribu": "BlackHole",
+        "lider": "Juan",
+        "cantidadPuntos": 300000,
+        "id": 3
+    }
+]

@@ -1,0 +1,21 @@
+h1,
+p,
+.contenido {
+  text-align: center;
+  color: white;
+}
+body {
+  background-color: black;
+  font-family: "Ubuntu", sans-serif;
+}
+.bb{
+  color: white;
+}
+
+#cardBoostrap{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
